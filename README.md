@@ -9,3 +9,5 @@ Plánování tras mi usnadňuje [Mapy.cz](https://mapy.cz).
 * Český ráj
 * Šumava
 ![hory](images/1.jpg)
+
+Inspiraci na výlety čerpám také na [Kudy z nudy](https://www.kudyznudy.cz).

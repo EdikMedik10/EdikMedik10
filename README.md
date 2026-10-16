@@ -13,3 +13,4 @@ Plánování tras mi usnadňuje [Mapy.cz](https://mapy.cz).
 Inspiraci na výlety čerpám také na [Kudy z nudy](https://www.kudyznudy.cz).
 
 Cestování je moje **největší vášni** a ráda objevuji *neznámá místa*.
+> 💡 **Tip na závěr:** Nikdy nezapomeňte na kvalitní obuv a dostatek vody!

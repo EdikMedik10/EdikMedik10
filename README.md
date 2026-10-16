@@ -8,4 +8,4 @@ Plánování tras mi usnadňuje [Mapy.cz](https://mapy.cz).
 * Krkonoše
 * Český ráj
 * Šumava
-![hory](1.jpg)
+![hory](images/1.jpg)

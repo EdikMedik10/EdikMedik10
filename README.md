@@ -11,4 +11,5 @@ Plánování tras mi usnadňuje [Mapy.cz](https://mapy.cz).
 ![hory](images/1.jpg)
 
 Inspiraci na výlety čerpám také na [Kudy z nudy](https://www.kudyznudy.cz).
+
 Cestování je moje **největší vášni** a ráda objevuji *neznámá místa*.

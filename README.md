@@ -1,2 +1,1 @@
-# EdikMedik10
-med
+# Ahoj
